@@ -9,7 +9,5 @@
 </head>
 <body>
 <br> HEllo eveerybody dance
-<li>GFV
-</li>
 </body>
 </html>
